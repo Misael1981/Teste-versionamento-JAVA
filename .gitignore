@@ -1,0 +1,17 @@
+# Arquivo .gitignore para o projeto Java
+
+.idea/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
+*.iml
+
+target/
+build/
+
+*.class
+*.log
+
+# Arquivos de sistema (opcional)
+.DS_Store
+Thumbs.db
